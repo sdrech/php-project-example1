@@ -10,3 +10,4 @@ Nowadays is global EU service over many countries.
 - JS (jQuery - the most advanced library at that time)
 - HTML5, CSS3, Drag-n-Drop features
 - Apache server, VirtualBox env.
+- OOA, TDD
