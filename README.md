@@ -5,6 +5,8 @@ Danish education platform with gamification features for schools and colleges in
 Nowadays is global EU service over many countries.
 
 ## Tech Stack
-- PHP (Symfony, Typo3 framework)
+- PHP (Symfony, Typo3 frameworks)
+- MySQL, Doctrine ORM
 - JS (jQuery - the most advanced library at that time)
-- HTML, CSS
+- HTML5, CSS3, Drag-n-Drop features
+- Apache server, VirtualBox env.
